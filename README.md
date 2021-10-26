@@ -9,3 +9,5 @@ Normally, industrial robots are defined as application specific, isolated from h
 3. Quality Control
 4. Finishing tasks (polishing, grinding, deburring, gluing, dispensing, welding)
 5. CNC Machine Tending
+
+![alt text](https://github.com/Shakir74/Inudustry-4.0-Robot/blob/main/cobots.jpg)

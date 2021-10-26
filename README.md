@@ -11,3 +11,8 @@ Normally, industrial robots are defined as application specific, isolated from h
 5. CNC Machine Tending
 
 ![alt text](https://github.com/Shakir74/Inudustry-4.0-Robot/blob/main/cobots.jpg)
+
+## Industry 4.0
+Industrial Internet of Things or IIoT is defined as machines, sensors, actuators, edges, computers and people enabling smart industrial operations using advanced data analytics for transformational business outcomes. With the advent of Internet of Things (IoT), cyber-physical systems and cloud computing, Industry 4.0 facilitates and induces advanced concepts based on the aforementioned technology to create "Smart Factories". cobots play a vital role in enabling process automation that continue evolving though software updates and their own programmability. With the advantages of Interoperability, Information Transparency, Technical assistance, Predictive capacity, and Adaptability Industry 4.0 and cobots are cruicial parts of Smart Factories.
+
+

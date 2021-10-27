@@ -80,6 +80,6 @@ Digital Twin as a virtual representation technology with lots of advanced benefi
 
 1. **Design**: From AutoCAD robot model I designed 6DoF cobot model in Digital Twin simulation software following Python kinematics, Articulated Kinematics, Kinematics Adjustment and Joints adjustment and developed following 6DoF cobot model. 
 
-
+![alt text](https://github.com/Shakir74/Inudustry-4.0-Robot/blob/main/DTw.jpg)
 
 

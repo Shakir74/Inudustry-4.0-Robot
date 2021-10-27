@@ -47,5 +47,5 @@ several programming languages can be used such as C, C++, Python, Java. PLC tech
 ### Industrial Communication
 
 | Industrial Ethernet         | Fieldbus |
-| ------------- | ------------- | ------------ |
+| ------------- | ------------- |
 | ModBus-TCP, EtherCAT, EtherNet/IP, Profinet  | ModBus-RTU, Profibus, Interbus, CC-Link, DeviceNet  |

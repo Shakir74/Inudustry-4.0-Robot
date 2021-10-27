@@ -72,6 +72,9 @@ including tools for encoding and decoding data structures.
 
 Cobots control unit can be summarized with following figure.
 
+![alt text](https://github.com/Shakir74/Inudustry-4.0-Robot/blob/main/Untitled3.jpg)
+
+
 
 
 

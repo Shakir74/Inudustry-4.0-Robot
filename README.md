@@ -83,6 +83,6 @@ Digital Twin as a virtual representation technology with lots of advanced benefi
 ![alt text](https://github.com/Shakir74/Inudustry-4.0-Robot/blob/main/DTw.jpg)
 
 
-https://github.com/Shakir74/Inudustry-4.0-Robot/blob/main/Untitled17(2)_Trim.mp4
+![Demo](https://github.com/Shakir74/Inudustry-4.0-Robot/blob/main/Untitled17(2)_Trim.mp4)
 
 

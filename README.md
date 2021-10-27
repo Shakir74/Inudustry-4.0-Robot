@@ -92,6 +92,6 @@ Digital Twin as a virtual representation technology with lots of advanced benefi
 
 For cobot real time data customization after having neccessary communication setup using OPC UA, I stored the required cobot's PLC data in Microsoft Excel server using MySQL. 
 
-
+![alt text](https://github.com/Shakir74/Inudustry-4.0-Robot/blob/main/MySQL.jpg)
 
 

@@ -24,4 +24,26 @@ Industrial Internet of Things or IIoT is defined as machines, sensors, actuators
 4. Long period data customization with CODESYS PLC control unit. 
 5. Develop cobot prototype for Industry 4.0.
 
+## Requirements
+
+1. **Sensing and Actuation**: Cobot needs to sense the environment and should act according to the surrounding through numerous sensors. For the accessing of the sensors
+several programming languages can be used such as C, C++, Python, Java. PLC technologies can serve the actuation process for cobots in industries.
+
+| Sensors         | Functions | Positions |
+| ------------- | ------------- | ------------ |
+| Torque sensor  | Torque sensor can be integrated at each cobot joint to meet the safety requirements up to ISO standard. It increases accuracy and speed. With low susceptibility to cross load  | Each joint |
+| Force-Torque/FT sensor  | FT sensor is a device that is able to feel forces exerted in all directions. FT sensor is designed to monitor, detect, record and regulate linear and
+rotational forces exerted upon it.  | placed between the robot ange (wrist) and the robot tool (end-effector) |
+| Tactile sensor  | Tactile sensors are used for object detection. For instance, these sensors to help acquire object detection from inside a gripper.  | gripper |
+| Skin sensor  | can be attached to any robot and industrial gripper and will then continuously measure pressure and pressure changes. If there is a collision, for example
+when touching a human, the system sends a stop signal to the controller within 9 ms and the robot stops immediately.  | whole body, gripper |
+| Collision detection sensor  | Robotic end-effector or device that can detect a crash before or during a collision of the robot or its tool.  | body |
+| Depth Camera  | • Read and Scan a Barcode
+• Categorize a Product or Item by Color, Size, or
+Shape
+• Count Items
+• Adjust the Path of the Machine by Providing It
+with Feedback from the Vision System
+• Inspect Components for any Defects or Issues
+• Identify a Component Accurately  | body |
 

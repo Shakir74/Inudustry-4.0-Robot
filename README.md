@@ -58,3 +58,17 @@ several programming languages can be used such as C, C++, Python, Java. PLC tech
 
 ![alt text](https://github.com/Shakir74/Inudustry-4.0-Robot/blob/main/physical%20setup.jpg)
 
+## Control Unit
+
+### CODESYS PLC
+CODESYS is an IDE for soft PLC programming that implements to a great extent the IEC 61131-3 standard. CODESYS is hardware-independent and more than 250 hardware manufacturers use CODESYS for industrial equipments. 
+
+**Graphical languages**: Ladder Diagrams, Function Block Diagrams, Instruction List, Structured Text.
+
+**CODESYS Communication Protocols**: CODESYS has numerous conveniences and add-on functions which can facilitate immediately in I 4.0 applications for peripheral connectivity. Communication can be established with proprietary protocols via standard interfaces such as Ethernet/CAN/serial, with standard web protocols or with fieldbuses, with OPC UA, as well as with special industrial protocols. From CODESYS store \IIoT Libraries SL" contains various libraries to support different communication protocols like MQTT, HTTPS
+including tools for encoding and decoding data structures.
+
+**Berghof Controller**: Berghof Automation and Control offers the unique flexibility and functionality of the CODESYS software platform and it enables programmable visualization as well as programmable safety and motion control. Berghof controllers use Linux as a platform, so that a wide variety of software modules can be easily combined.
+
+
+

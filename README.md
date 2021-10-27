@@ -36,12 +36,6 @@ several programming languages can be used such as C, C++, Python, Java. PLC tech
 | Tactile sensor  | Tactile sensors are used for object detection. For instance, these sensors to help acquire object detection from inside a gripper.  | gripper |
 | Skin sensor  | can be attached to any robot and industrial gripper and will then continuously measure pressure and pressure changes. If there is a collision, for example when touching a human, the system sends a stop signal to the controller within 9 ms and the robot stops immediately.  | whole body, gripper |
 | Collision detection sensor  | Robotic end-effector or device that can detect a crash before or during a collision of the robot or its tool.  | body |
-| Depth Camera  | • Read and Scan a Barcode
-• Categorize a Product or Item by Color, Size, or
-Shape
-• Count Items
-• Adjust the Path of the Machine by Providing It
-with Feedback from the Vision System
-• Inspect Components for any Defects or Issues
-• Identify a Component Accurately  | body |
+| Depth Camera  | • Read and Scan a Barcode • Categorize a Product or Item by Color, Size, or
+Shape • Count Items • Adjust the Path of the Machine by Providing It with Feedback from the Vision System • Inspect Components for any Defects or Issues • Identify a Component Accurately  | body |
 

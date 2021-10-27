@@ -74,7 +74,9 @@ Cobots control unit can be summarized with following figure.
 
 ![alt text](https://github.com/Shakir74/Inudustry-4.0-Robot/blob/main/Untitled3.jpg)
 
+## Digital Twin
 
+Digital Twin as a virtual representation technology with lots of advanced benefits in contrast to industry 4.0 and it can be described as a digital replica of a physical cobot including data about this systems interaction with its environment. 
 
 
 

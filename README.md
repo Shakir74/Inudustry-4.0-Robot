@@ -26,7 +26,9 @@ Industrial Internet of Things or IIoT is defined as machines, sensors, actuators
 
 ## Requirements
 
-1. **Sensing and Actuation**: Cobot needs to sense the environment and should act according to the surrounding through numerous sensors. For the accessing of the sensors
+### Sensing and Actuation
+
+1. **Sensors**: Cobot needs to sense the environment and should act according to the surrounding through numerous sensors. For the accessing of the sensors
 several programming languages can be used such as C, C++, Python, Java. PLC technologies can serve the actuation process for cobots in industries.
 
 | Sensors         | Functions | Positions |

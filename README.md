@@ -40,6 +40,12 @@ several programming languages can be used such as C, C++, Python, Java. PLC tech
 | Collision detection sensor  | Robotic end-effector or device that can detect a crash before or during a collision of the robot or its tool.  | body |
 | Depth Camera  | • Read and Scan a Barcode • Categorize a Product or Item by Color, Size, or Shape • Count Items • Adjust the Path of the Machine by Providing It with Feedback from the Vision System • Inspect Components for any Defects or Issues • Identify a Component Accurately  | body |
 
-2. **Servo Motors**: Servo motor (or servo) is a rotary actuator that allows for precise control of angular position, velocity and acceleration.
+2. **Servo Motors**: Servo motor is a rotary actuator that allows for precise control of angular position, velocity and acceleration of robot arms.
 
 3. **Encoders**:  Encoder is an electromechanical device which generates an electrical signal depending on the position or the displacement of the measured item. In robotics, rotary encoders are used to measure the movement (direction and speed) of each of the wheels of the robot.
+
+### Industrial Communication
+
+| Industrial Ethernet         | Fieldbus |
+| ------------- | ------------- | ------------ |
+| ModBus-TCP, EtherCAT, EtherNet/IP, Profinet  | ModBus-RTU, Profibus, Interbus, CC-Link, DeviceNet  |

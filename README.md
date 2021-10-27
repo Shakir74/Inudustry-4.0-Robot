@@ -56,5 +56,5 @@ several programming languages can be used such as C, C++, Python, Java. PLC tech
 
 ## Set-Up
 
-![alt text](https://github.com/Shakir74/Inudustry-4.0-Robot/blob/main/setup.jpg)
+![alt text]
 

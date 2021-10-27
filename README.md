@@ -17,5 +17,11 @@ Industrial Internet of Things or IIoT is defined as machines, sensors, actuators
 
 ![alt text](https://github.com/Shakir74/Inudustry-4.0-Robot/blob/main/industry%204.0.jpg)
 
+## Objectives
+1. Literature research on cobots and data interfaces to the Industrial IT and IIoT.
+2. Development of concepts for cobots in IIoT.
+3. Design and develop cobot Digital Twin for Industry 4.0.
+4. Long period data customization with CODESYS PLC control unit. 
+5. Develop cobot prototype for Industry 4.0.
 
 

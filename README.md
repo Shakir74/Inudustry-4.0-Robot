@@ -94,4 +94,14 @@ For cobot real time data customization after having neccessary communication set
 
 ![alt text](https://github.com/Shakir74/Inudustry-4.0-Robot/blob/main/MySQL.jpg)
 
+## Features
+
+1. Remote Robot monitoring with digital visualization.
+2. Robotic Arm status monitoring with real-time update.
+3. avoid any unnecessary or unwanted production loss with updated status of preventive maintenance.
+4. Securing highly Safety Measurements in production areas.
+5. Sequential Cobots Functionalities in a large production line.
+6. Green cobot to avoid unwanted energy consumption.
+
+The cobot was designed and functioned for Industry 3.0. In this project I developed the cobot prototype with requirements, control, communication, IT seup for Industry 4.0. Here are some used cases of this cobot prototype in Industry 4.0. I have also worked on another embedded IoT drone project which is available here https://github.com/Shakir74/IoT_Drone
 

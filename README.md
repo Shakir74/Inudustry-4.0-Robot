@@ -53,3 +53,7 @@ several programming languages can be used such as C, C++, Python, Java. PLC tech
 6. **Data Science**: Data science performs with Big data analytics of volume, variety, velocity including industrial automation, predictive maintenance and Artificial Intellegence (AI) including Deep learing and Machine Learning.
 
 7. **Cloud Computing**: After the encryption of cobot variables data by networking protocol, through cloud computing those variables data can be stored through IIoT process.
+
+## Set-Up
+
+

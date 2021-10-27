@@ -70,5 +70,9 @@ including tools for encoding and decoding data structures.
 
 **Berghof Controller**: Berghof Automation and Control offers the unique flexibility and functionality of the CODESYS software platform and it enables programmable visualization as well as programmable safety and motion control. Berghof controllers use Linux as a platform, so that a wide variety of software modules can be easily combined.
 
+Cobots control unit can be summarized with following figure.
+
+
+
 
 

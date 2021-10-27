@@ -78,6 +78,8 @@ Cobots control unit can be summarized with following figure.
 
 Digital Twin as a virtual representation technology with lots of advanced benefits in contrast to industry 4.0 and it can be described as a digital replica of a physical cobot including data about this systems interaction with its environment. 
 
+1. **Design**: From AutoCAD robot model I designed 6DoF cobot model in Digital Twin simulation software following Python kinematics, Articulated Kinematics, Kinematics Adjustment and Joints adjustment and developed following 6DoF cobot model. 
+
 
 
 

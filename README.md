@@ -82,7 +82,9 @@ Digital Twin as a virtual representation technology with lots of advanced benefi
 
 ![alt text](https://github.com/Shakir74/Inudustry-4.0-Robot/blob/main/DTw.jpg)
 
+2. **Coomunication**: OPC Ua communication functions with server-client communication and in this project, robot controller CODESYS PLC works as a server and DTw works as a client for real-time communication of physical and virtual robot.
 
+2. **Virtual Representation**: after setting the communication in between physical and virtual robot, I got following Digital Twin real time virtual representation of my project's 6axis robot.
 ![alt text](https://github.com/Shakir74/Inudustry-4.0-Robot/blob/main/Untitled17(2).gif)
 
 

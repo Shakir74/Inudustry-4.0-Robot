@@ -26,8 +26,6 @@ Industrial Internet of Things or IIoT is defined as machines, sensors, actuators
 
 ## Requirements
 
-### Sensing and Actuation
-
 1. **Sensors**: Cobot needs to sense the environment and should act according to the surrounding through numerous sensors. For the accessing of the sensors
 several programming languages can be used such as C, C++, Python, Java. PLC technologies can serve the actuation process for cobots in industries.
 
@@ -44,8 +42,14 @@ several programming languages can be used such as C, C++, Python, Java. PLC tech
 
 3. **Encoders**:  Encoder is an electromechanical device which generates an electrical signal depending on the position or the displacement of the measured item. In robotics, rotary encoders are used to measure the movement (direction and speed) of each of the wheels of the robot.
 
-### Industrial Communication
+4. **Industrial Communication**:
 
 | Industrial Ethernet         | Fieldbus |
 | ------------- | ------------- |
 | ModBus-TCP, EtherCAT, EtherNet/IP, Profinet  | ModBus-RTU, Profibus, Interbus, CC-Link, DeviceNet  |
+
+5. **Networking Protocol**: Protocol is the reason behind cobots can communicate through IIoT. In industry 4.0 there are some networking technologies for cobot integration including MQTT, CoAP, OPC UA.
+
+6. **Data Science**: Data science performs with Big data analytics of volume, variety, velocity including industrial automation, predictive maintenance and Artificial Intellegence (AI) including Deep learing and Machine Learning.
+
+7. **Cloud Computing**: After the encryption of cobot variables data by networking protocol, through cloud computing those variables data can be stored through IIoT process.

@@ -17,3 +17,5 @@ Industrial Internet of Things or IIoT is defined as machines, sensors, actuators
 
 ![alt text](https://github.com/Shakir74/Inudustry-4.0-Robot/blob/main/industry%204.0.jpg)
 
+
+
